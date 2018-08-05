@@ -17,3 +17,5 @@ categories: french receipe
 - aubergine
 - peppers
 - tomatoes
+
+first up, we make sure the courgette is cooked nice and brownish.
