@@ -18,4 +18,4 @@ categories: french receipe
 - peppers
 - tomatoes
 
-first up, we make sure the courgette is cooked nice and brownish.
+first up, we make sure the courgette is cooked nice and brownish. When done, remove from the pan and into a bowl. Then, bake the aubergine and the peppers.
