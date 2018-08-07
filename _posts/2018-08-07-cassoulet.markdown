@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Casoulet"
+title:  "Cassoulet"
 date:   2018-08-07 13:53:55 +0200
 categories: recipe
 ---
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/wilfrednas/29619483748/in/datetaken/" title="Untitled"><img src="https://farm2.staticflickr.com/1827/29619483748_51cdf2e5c3_b.jpg" width="768" height="1024" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 - 2 onions
 - 3 cloves of garlic
@@ -20,6 +19,7 @@ categories: recipe
 - aubergine
 - peppers
 - tomatoes
+( chopped in 1cm cubed pieces )
 
 first up, we make sure the courgette is cooked nice and brownish. For this we use a nice and big frying pan. When done, remove from the pan and into a bowl. Then, bake the aubergine and the peppers.
 
