@@ -28,7 +28,6 @@ theme: minima
 permalink: none
 plugins:
   - jekyll-feed
-  - jekyll-responsive-image
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
