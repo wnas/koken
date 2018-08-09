@@ -25,7 +25,6 @@ github_username:  wnas
 # Build settings
 markdown: kramdown
 theme: minima
-permalink: none
 plugins:
   - jekyll-feed
 
