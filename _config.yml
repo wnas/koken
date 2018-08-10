@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wilfred Nas, cooking!
-email: wilfred@wilfrednas.com
+title: Wilfred Nas, on cooking!
+email: wilfred@wnas.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Hi there, here i will save my recepies and other food and cooking related stuff
 baseurl: "" # the subpath of your site, e.g. /blog
