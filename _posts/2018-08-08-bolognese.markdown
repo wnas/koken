@@ -9,6 +9,7 @@ categories: recipe
 
 A simple recipe in [dutch](#nl) and [english](#en)
 
+<hr />
 <a id="nl"></a>
 
 ### Uitrusting
@@ -49,7 +50,7 @@ Na zo'n twee uur kun je het op smaak brengen met zout en peper, niet te veel, en
 
  Serveer met [pasta](pasta.html) en wat erwtjes.
 
-
+<hr />
 <a id="en"></a>
 
 ### Equipment
