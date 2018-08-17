@@ -10,4 +10,8 @@ categories: recipe
  ../img/1024/43922507651_3227e891e2_o.jpg 1024w,../img/2048/43922507651_3227e891e2_o.jpg 2048w" alt="courgette soup ingredients" />
 </figure> -->
 
-{% include img alt="courgette soup ingredients" src="43922507651_3227e891e2_o.jpg" %}
+{%
+  include atoms/img.md 
+    alt="courgette soup ingredients"
+    src="43922507651_3227e891e2_o.jpg"
+%}

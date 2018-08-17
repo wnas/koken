@@ -8,7 +8,11 @@ categories: recipe
 
 Pasta, one of my favourite food items :). And it's really easy to make yourself. All you need is a rolling pin and a flat surface...
 
-<figure><img src="https://farm1.staticflickr.com/851/43054510755_d7a699e72e_b.jpg" alt="Pasta hanging to dry"></figure>
+{%
+  include atoms/img.md
+    alt="Pasta hanging to dry"
+    src="43054510755_3cffcf2b93_o.jpg"
+%}
 
 ## Ingredients
 

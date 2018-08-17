@@ -7,6 +7,7 @@ categories: recipe
 
 coming soon
 
-<figure>
-<img src="https://farm1.staticflickr.com/937/28986266077_a34e06c92e_k.jpg" alt="ingredients for casoulet" />
-</figure>
+{%
+  include atoms/img.md
+    src="28986266077_028db38ca0_o.jpg" alt="ingredients for cassoulet"
+%}
