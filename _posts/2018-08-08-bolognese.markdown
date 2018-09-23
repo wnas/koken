@@ -4,6 +4,10 @@ title:  "Bolognese sauce"
 date:   2018-08-08 13:53:55 +0200
 categories: recipe
 ---
+A great italian classic, this recipe is my take on it.
+
+<!--more-->
+
 
 #  Bolognese sauce
 

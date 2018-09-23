@@ -5,6 +5,12 @@ date:   2018-08-05 13:53:55 +0200
 categories: recipe
 ---
 
+Ratatouille sure got a boost after the film. Fact is this is one of the great french country dishes that is a success at our table for years.
+
+<!--more-->
+
+
+## ingredients
 - 2 onions
 - 3 cloves of garlic
 - a small pepper
@@ -17,6 +23,8 @@ categories: recipe
 - aubergine
 - peppers
 - tomatoes
+
+## how it's done
 
 first up, we make sure the courgette is cooked nice and brownish. For this we use a nice and big frying pan. When done, remove from the pan and into a bowl. Then, bake the aubergine and the peppers.
 
