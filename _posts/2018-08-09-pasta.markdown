@@ -6,20 +6,20 @@ categories: recipe
 ---
 Pasta, one of my favourite food items :). And it's really easy to make yourself. All you need is a rolling pin and a flat surface...
 
+<img src="img/ingredients/pasta/pasta-180.jpg" alt="pasta hanging to dry" />
 <!--more-->
 
-{%
-  include atoms/img.md
-    alt="Pasta hanging to dry"
-    src="43054510755_3cffcf2b93_o.jpg"
-%}
 
 ## Ingredients
 
 All you need, per person, is one large egg (free range) and 100 grams of plain flour.
 
 Or, you can omit the egg and add some water, about 20 to 30 ml. As to make it vegan...
-
+{%
+  include atoms/img.md
+    alt="Pasta hanging to dry"
+    src="43054510755_3cffcf2b93_o.jpg"
+%}
 ## How
 
 In a large bowl, combine the two and knead together until it forms a coarse doughy substance. Then, transfer it out of the bowl onto a smooth surface, slightly covered with flour and work the dough some more. Until it's elastic kinda...
