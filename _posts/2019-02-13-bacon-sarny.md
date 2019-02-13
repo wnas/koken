@@ -1,5 +1,5 @@
 ---
-title: 'Bacon sarny '
+title: Bacon sarny dus
 categorieen:
 - bacon
 intro: Hoe maak ik een **bacon sarny**, oftewel een boterham met spek?
