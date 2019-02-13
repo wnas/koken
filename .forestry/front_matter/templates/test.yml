@@ -44,5 +44,6 @@ fields:
   name: more_images
   label: more images
 pages:
+- _posts/a.md
 - _posts/2019-02-13-bacon-sarny.md
 - _posts/broodje-kaas.md
