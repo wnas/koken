@@ -43,3 +43,5 @@ fields:
 - type: image_gallery
   name: more_images
   label: more images
+pages:
+- _posts/bacon-sarny.md
