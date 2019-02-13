@@ -2,4 +2,41 @@
 label: test
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+  description: title of the page
+  config:
+    required: true
+- type: tag_list
+  name: categorieen
+  label: categorieen
+- type: textarea
+  name: intro
+  label: intro
+  description: introduction
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: file
+  name: intro_image
+  label: intro image
+  description: first image
+- type: textarea
+  name: ingredienten
+  label: ingredienten
+  description: ingredienten
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: how_to
+  label: how to
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
