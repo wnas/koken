@@ -43,5 +43,10 @@ fields:
 - type: image_gallery
   name: more_images
   label: more images
+- type: text
+  name: layout
+  label: layout
+  description: recipe
+  default: recipe
 pages:
 - _posts/2019-02-13-bacon-sarny.md
