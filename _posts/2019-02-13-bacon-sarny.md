@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Bacon sarny dus
 categorieen:
 - bacon
@@ -15,7 +16,7 @@ date: 2019-02-13 09:09:01 +0000
 
 ---
 Hoe maak ik een **bacon sarny**, oftewel een boterham met spek?
-
+<!--more-->
 {%
   include atoms/img.md
     alt="pannen"
