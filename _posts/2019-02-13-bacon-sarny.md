@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: Bacon sarny dus
 categorieen:
 - bacon
@@ -13,14 +12,12 @@ ingredienten: |-
 how_to: gewoon doen dus
 more_images: []
 date: 2019-02-13 09:09:01 +0000
+layout: recipe
 
 ---
-Hoe maak ik een **bacon sarny**, oftewel een boterham met spek?
-<!--more-->
-{%
-  include atoms/img.md
-    alt="pannen"
-    src="/v1550048109/koken/UNADJUSTEDNONRAW_thumb_3d6d.jpg"
+esteedkeekekd
+
+ {% include atoms/img.md alt="pannen" src="/v1550048109/koken/UNADJUSTEDNONRAW_thumb_3d6d_jpg"_
 %}
 
 * twee boterhammen
