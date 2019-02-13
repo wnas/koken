@@ -14,3 +14,11 @@ more_images: []
 date: 2019-02-13 09:09:01 +0000
 
 ---
+Hoe maak ik een **bacon sarny**, oftewel een boterham met spek?
+
+![](/v1550048109/koken/UNADJUSTEDNONRAW_thumb_3d6d.jpg)
+
+* twee boterhammen
+* 4 plakken spek
+* een eitje
+* 6 plakken kaas
