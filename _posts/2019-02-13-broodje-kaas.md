@@ -1,5 +1,5 @@
 ---
-title: broodje kaas
+title: Broodje kaas
 categorieen:
 - kaas
 - broodje
