@@ -40,3 +40,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: image_gallery
+  name: more_images
+  label: more images
