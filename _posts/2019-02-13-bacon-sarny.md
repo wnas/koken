@@ -15,12 +15,7 @@ date: 2019-02-13 09:09:01 +0000
 layout: recipe
 
 ---
-esteedkeekekd
+of zoiets...
 
  {% include atoms/img.md alt="pannen" src="/v1550048109/koken/UNADJUSTEDNONRAW_thumb_3d6d_jpg"_
 %}
-
-* twee boterhammen
-* 4 plakken spek
-* een eitje
-* 6 plakken kaas
