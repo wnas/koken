@@ -25,6 +25,10 @@ fields:
   name: intro_image
   label: intro image
   description: first image
+- type: text
+  name: alt
+  label: alt
+  description: alternate description for the image
 - type: textarea
   name: ingredienten
   label: ingredienten
