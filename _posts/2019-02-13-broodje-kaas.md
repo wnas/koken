@@ -3,7 +3,7 @@ title: Broodje kaas
 categorieen:
 - kaas
 - broodje
-intro: Hoe maak je een broodje kaas
+intro: Hoe maak je een broodje kaas.
 intro_image: ''
 ingredienten: |-
   * broodje
