@@ -5,6 +5,7 @@ categorieen:
 - broodje
 intro: Hoe maak je een broodje kaas.
 intro_image: "/v1550048065/koken/UNADJUSTEDNONRAW_thumb_3d31.jpg"
+intro_image-alt: "een broodje kaas"
 ingredienten: |-
   * broodje
   * boter
