@@ -20,8 +20,9 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-
+          {{ post.intro }}
           {{ post.excerpt }}
+
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 </div>
           <span class="post-meta">{{ post.date | date: date_format }}</span>
