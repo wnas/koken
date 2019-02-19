@@ -16,6 +16,3 @@ layout: recipe
 
 ---
 of zoiets...
-
- {% include atoms/img.md alt="pannen" src="https://res.cloudinary.com/dw4avjwzi/image/upload/v1550048022/koken/UNADJUSTEDNONRAW_thumb_3d35.jpg"_
-%}
