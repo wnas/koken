@@ -14,23 +14,20 @@ layout: default
     </header>
 
     <div class="intro" itemprop="articleBody">
-        {{ page.intro }}
+        {{ page.intro | markdownify }}
     </div>
     <figure class="intro_image">
       <img src="{{ intro_image }}" alt="{{ intro_image-alt }}" />
       </figure>
-        {%- if page.ingredients.size > 0 -%}
-    <ul class="ingredients">
 
-      {%- for ingredient in page.ingredients -%}
-        <li class="ingredient">
-          {{ ingredient }}
-          </li>
-      {%- endfor -%}
-    </ul>
-      {%- endif -%}
+    <div class="ingredients">
+
+          {{ page.ingredients | markdownify }}
+
+    </div>
+
     <div class="how_to">
-      {{ page.how_to }}
+      {{ page.how_to | markdownify }}
     </div>
     <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
