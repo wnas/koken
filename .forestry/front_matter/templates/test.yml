@@ -26,9 +26,11 @@ fields:
   label: intro image
   description: first image
 - type: text
-  name: alt
-  label: alt
-  description: alternate description for the image
+  name: intro_image-alt
+  label: intro_image-alt
+  description: alt for the intro image
+  config:
+    required: true
 - type: textarea
   name: ingredienten
   label: ingredienten
@@ -50,4 +52,3 @@ fields:
 pages:
 - _posts/a.md
 - _posts/2019-02-13-bacon-sarny.md
-- _posts/broodje-kaas.md
