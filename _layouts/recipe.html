@@ -16,9 +16,9 @@ layout: default
     <div class="intro" itemprop="articleBody">
         {{ page.intro | markdownify }}
     </div>
-    
+
     {%
-      include atoms/ci-img.md
+      include atoms/ciimg.md
         alt="{{ page.intro_image-alt }}"
         src="{{ page.intro_image }}"
     %}
