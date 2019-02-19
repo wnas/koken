@@ -16,10 +16,14 @@ layout: default
     <div class="intro" itemprop="articleBody">
         {{ page.intro | markdownify }}
     </div>
-    <figure class="intro_image">
-      <img src="{{ page.intro_image }}" alt="{{ page.intro_image-alt }}" />
-      {{ page.intro_image }}
-      </figure>
+    {%
+      include atoms/ci-img.md
+        alt="{{ page.intro_image-alt }}"
+        src="{{ page.intro_image }}"
+    %}
+    <!-- <figure class="intro_image">
+      <img src="https://res.cloudinary.com/dw4avjwzi/c_scale,w_600{{ page.intro_image }}" alt="{{ page.intro_image-alt }}" />
+      </figure> -->
 
     <div class="ingredients">
 

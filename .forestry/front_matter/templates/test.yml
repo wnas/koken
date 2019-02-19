@@ -49,10 +49,6 @@ fields:
 - type: image_gallery
   name: more_images
   label: more images
-- type: layout
-  name: layout
-  label: layout
-  value: recipe
 pages:
 - _posts/2019-02-13-broodje-kaas.md
 - _posts/a.md
