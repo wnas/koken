@@ -1,4 +1,4 @@
-<figure>
+<figure class="intro_image">
 <img
   src="https://res.cloudinary.com/dw4avjwzi/c_scale,w_320/{{ include.src }}"
   srcset="https://res.cloudinary.com/dw4avjwzi/c_scale,w_320/{{ include.src }} 320w, https://res.cloudinary.com/dw4avjwzi/c_scale,w_640/{{ include.src }} 640w,
