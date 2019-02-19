@@ -16,5 +16,6 @@ how_to: |-
 more_images: []
 date: 2019-02-13 14:34:23 +0000
 alt: ''
+layout: recipe
 
 ---

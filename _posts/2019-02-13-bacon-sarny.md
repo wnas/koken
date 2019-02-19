@@ -10,7 +10,7 @@ ingredienten: |-
   * 4 plakken spek
   * een eitje
   * 6 plakken kaas
-how_to: gewoon doen dus
+how_to: 
 more_images: []
 date: 2019-02-13 09:09:01 +0000
 layout: recipe
