@@ -16,12 +16,13 @@ layout: default
     <div class="intro" itemprop="articleBody">
         {{ page.intro | markdownify }}
     </div>
-
-    {%
-      include atoms/img.md
-        alt="{{ page.intro_image-alt }}"
-        src="{{ page.intro_image }}"
-    %}
+    <figure class="intro_image">
+    <img
+      src="https://res.cloudinary.com/dw4avjwzi/c_scale,w_320/{{ page.intro_image }}"
+      srcset="https://res.cloudinary.com/dw4avjwzi/c_scale,w_320/{{ page.intro_image }} 320w, https://res.cloudinary.com/dw4avjwzi/c_scale,w_640/{{ page.intro_image }} 640w,
+     https://res.cloudinary.com/dw4avjwzi/c_scale,w_1024/{{ page.intro_image }} 1024w, https://res.cloudinary.com/dw4avjwzi/c_scale,w_2048/{{ page.intro_image }} 2048w"
+      alt="{{ page.intro_image-alt }}" />
+    </figure>
 
     <div class="ingredients">
 
