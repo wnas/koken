@@ -1,0 +1,21 @@
+---
+title: Paella
+categorieen:
+- paella
+- spain
+intro: One of the best known foods from Spain is paella, the lovely rice dish with
+  saffran.
+intro_image: https://res.cloudinary.com/dw4avjwzi/v1550048172/koken/IMG_1961.jpg
+intro_image-alt: almost done
+ingredienten: |-
+  * rice
+  * safran
+  * peppers
+  * button mushrooms
+  * onion
+  * 3 cloves of garlic
+how_to: just do it.
+more_images: []
+date: 2019-02-21 19:06:00 +0000
+
+---

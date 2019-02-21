@@ -50,6 +50,7 @@ fields:
   name: more_images
   label: more images
 pages:
+- _posts/paella.md
 - _posts/2019-02-13-broodje-kaas.md
 - _posts/a.md
 - _posts/2019-02-13-bacon-sarny.md
