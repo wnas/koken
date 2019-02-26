@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Bolognese sauce"
-date:   2018-08-08 13:53:55 +0200
+title: Bolognese sauce
+date: 2018-08-08 11:53:55 +0000
 categories: recipe
+
 ---
 A great italian classic, this recipe is my take on it.
 
 <!--more-->
 
-
-#  Bolognese sauce
+# Bolognese sauce
 
 A simple recipe in [dutch](#nl) and [english](#en)
 
@@ -18,13 +18,13 @@ A simple recipe in [dutch](#nl) and [english](#en)
 
 ### Uitrusting
 
- Een grote gietijzeren braadpan (een dutch oven), een houten spatel, een goed koksmes, een bakkersmaatje, een grote houten snijplank en een kleinere van kunststof.
+Een grote gietijzeren braadpan (een dutch oven), een houten spatel, een goed koksmes, een bakkersmaatje, een grote houten snijplank en een kleinere van kunststof. (test)
 
 ## Ingredients:
 
 ### Groente
 
- Een witte en een rode ui, drie tenen knoflook, een wortel, een stengel bleekselderij, een gele en een rode paprika en een bakje kastanjechampignons. Een grote pot basistomatensaus, een blik tomaten en een pak passata.
+Een witte en een rode ui, drie tenen knoflook, een wortel, een stengel bleekselderij, een gele en een rode paprika en een bakje kastanjechampignons. Een grote pot basistomatensaus, een blik tomaten en een pak passata.
 
 ### Vlees
 
@@ -42,7 +42,7 @@ Gebruik voor de groenten de houten snijplank, voor het vlees en dergelijke die v
 Begin met het snijden van de groente, het liefst alles ongeveer even groot, op de knoflook en de champignons na. De knoflook moet fijner en de champignons moeten juist wat groter.
 Snij de spek redelijk klein en ontdoe de worstjes van hun velletje.
 
- ## Bereiding
+## Bereiding
 
 Zet de pan op een klein vuurtje, doe er wat olijfolie in, de spek en de ansjovis met z'n olie. Bak tot de ansjovis opgelost is en de spek licht gebakken. Voeg de uien toe en bak zo'n vijf minuten, voeg dan de wortelen, de knoflook en de bleekselderij toe, zet het vuur iets hoger en bak weer vijf minuten, blijf ondertussen goed roeren.
 
@@ -52,7 +52,7 @@ Laat dit op een zacht vuurtje indikken in zo'n twee uur, vergeet niet af en toe 
 
 Na zo'n twee uur kun je het op smaak brengen met zout en peper, niet te veel, en is het klaar. Smakelijk.
 
- Serveer met [pasta](pasta.html) en wat erwtjes.
+Serveer met [pasta](pasta.html) en wat erwtjes.
 
 <hr />
 <a id="en"></a>
