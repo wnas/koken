@@ -61,6 +61,7 @@ fields:
   label: layout
   description: what kind of layout to use
 pages:
+- _posts/story.md
 - _posts/2019-02-21-paella.md
 - _posts/2019-02-13-broodje-kaas.md
 - _posts/a.md
