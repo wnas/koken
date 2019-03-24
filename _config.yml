@@ -25,6 +25,7 @@ permalink: none
 # Build settings
 markdown: kramdown
 theme: minima
+image_pre: https://res.cloudinary.com/dw4avjwzi/image/upload/q_49,
 excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed

@@ -1,5 +1,6 @@
 ---
 layout: default
+
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -16,17 +17,17 @@ layout: default
     <div class="intro" itemprop="articleBody">
         {{ page.intro | markdownify }}
     </div>
+
     <figure class="intro_image">
     <img
-      src="https://res.cloudinary.com/dw4avjwzi/c_scale,w_320/{{ page.intro_image }}"
-      srcset="https://res.cloudinary.com/dw4avjwzi/image/upload/c_scale,w_320/{{ page.intro_image }} 320w,
-      https://res.cloudinary.com/dw4avjwzi/image/upload/c_scale,w_640/{{ page.intro_image }} 640w,
-     https://res.cloudinary.com/dw4avjwzi/image/upload/c_scale,w_1024/{{ page.intro_image }} 1024w, https://res.cloudinary.com/dw4avjwzi/image/upload/c_scale,w_2048/{{ page.intro_image }} 2048w"
+      src="{{ site.image_pre }},c_crop,g_center,w_1435,h_351/{{ page.intro_image }}"
+      srcset="{{ site.image_pre }},c_crop,g_center,w_400,h_200/{{ page.intro_image }} 320w,
+       {{ site.image_pre }},c_crop,g_center,w_640,h_301/{{ page.intro_image }} 640w,
+       {{ site.image_pre }},c_crop,g_center,w_1025,h_351/{{ page.intro_image }} 1024w,
+       {{ site.image_pre }},c_crop,g_center,w_1435,h_351/{{ page.intro_image }} 2048w"
       alt="{{ page.intro_image-alt }}" />
     </figure>
-<!--
-https://res.cloudinary.com/dw4avjwzi/image/upload/c_crop,g_auto:none,h_1000,w_1460,y_1632/c_scale,w_1200/v1551181996/koken/IMG_1961.jpg
- -->
+
     <div class="ingredients">
 
           {{ page.ingredienten | markdownify }}
