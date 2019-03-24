@@ -4,7 +4,7 @@ categorieen:
 - cookies
 - france
 intro: Real simple butter biscuits
-intro_image: 
+intro_image: v1553435298/koken/IMG_2374.jpg
 intro_image-alt: almost done
 ingredienten: |-
   * 3 eggs
