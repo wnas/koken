@@ -5,18 +5,21 @@ fields:
 - type: text
   name: title
   label: title
+  default: Bretons boterbiscuits
 - type: list
   name: categorieen
   label: categorieen
 - type: text
   name: intro
   label: intro
+  default: Simpel te maken en super lekkere koekjes
 - type: file
   name: intro_image
   label: intro_image
 - type: text
   name: intro_image-alt
   label: intro_image-alt
+  default: koekjes
 - type: text
   name: ingredienten
   label: ingredienten
