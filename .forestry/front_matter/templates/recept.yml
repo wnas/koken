@@ -1,0 +1,34 @@
+---
+label: Recept
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: categorieen
+  label: categorieen
+- type: text
+  name: intro
+  label: intro
+- type: file
+  name: intro_image
+  label: intro_image
+- type: text
+  name: intro_image-alt
+  label: intro_image-alt
+- type: text
+  name: ingredienten
+  label: ingredienten
+- type: text
+  name: how_to
+  label: how_to
+- type: list
+  name: more_images
+  label: more_images
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
