@@ -25,6 +25,6 @@ how_to: |-
   * season well with salt and pepper.
   * Shape four patties and place them in the oven for 15 to 20 minutes, turning them halfway.
 more_images: []
-date: 2019-03-28 09:06:00 +0000
+date: 2019-03-27 09:06:00 +0000
 layout: recipe
 ---
