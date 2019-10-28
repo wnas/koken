@@ -1,5 +1,5 @@
 ---
-title: Black bean burgers
+title: Mean black bean burgers
 categorieen:
 - burgers
 - vegan
