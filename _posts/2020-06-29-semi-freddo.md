@@ -12,7 +12,7 @@ ingredienten: |-
 how_to: |-
     First you split the eggs. Whisk the egg yolk fluffy with 50 grams of sugar.
 
-    The egg whites you beat untill you can lift the bowl upside down over your head without getting any of it on your head. Then whisk the remaining sugar through it.
+    The egg whites you beat until you can lift the bowl upside down over your head without getting any of it on your head. Then whisk the remaining sugar through it.
 
     In a food processor beat the cream untill quite stiff.
 
